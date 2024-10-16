@@ -1,2 +1,7 @@
 [build]
     functions = "functions"
+
+[[redirect]]
+    from = "/"
+    to = "/client"
+    status = 200
